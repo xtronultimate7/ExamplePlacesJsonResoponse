@@ -43,4 +43,6 @@
      "scope" : "GOOGLE",
      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
      "vicinity" : "3/50 Murray Street, Pyrmont"
-  }
+ }
+ ]
+}
